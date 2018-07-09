@@ -101,8 +101,7 @@
 		728BAD3F20F3A57B00737D4F /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				728BAD4020F3A57B00737D4F /* AppDelegate.h */,
-				728BAD4120F3A57B00737D4F /* AppDelegate.m */,
+				728BAD7220F3A6EC00737D4F /* Supporting Files */,
 				728BAD4320F3A57B00737D4F /* ViewController.h */,
 				728BAD4420F3A57B00737D4F /* ViewController.m */,
 				728BAD4620F3A57B00737D4F /* Main.storyboard */,
@@ -130,6 +129,15 @@
 				728BAD6620F3A57B00737D4F /* Info.plist */,
 			);
 			path = AttributorUITests;
+			sourceTree = "<group>";
+		};
+		728BAD7220F3A6EC00737D4F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				728BAD4120F3A57B00737D4F /* AppDelegate.m */,
+				728BAD4020F3A57B00737D4F /* AppDelegate.h */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
