@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="JT4-Jt-Azf">
     <device id="retina4_0" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -82,7 +82,7 @@
                     <navigationItem key="navigationItem" title="The iOS Team Rocks!" id="a6h-6n-DqP">
                         <barButtonItem key="rightBarButtonItem" title="Stats" id="8On-55-r9K">
                             <connections>
-                                <segue destination="cYO-21-Ucb" kind="push" id="Mh5-aG-PaM"/>
+                                <segue destination="cYO-21-Ucb" kind="push" identifier="Analyze text" id="Mh5-aG-PaM"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
