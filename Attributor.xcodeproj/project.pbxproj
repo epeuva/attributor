@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33B4813420F8BECA00AB1336 /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33B4813320F8BECA00AB1336 /* TextStatsViewController.m */; };
 		728BAD4220F3A57B00737D4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 728BAD4120F3A57B00737D4F /* AppDelegate.m */; };
 		728BAD4520F3A57B00737D4F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728BAD4420F3A57B00737D4F /* ViewController.m */; };
 		728BAD4820F3A57B00737D4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 728BAD4620F3A57B00737D4F /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		33B4813220F8BECA00AB1336 /* TextStatsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		33B4813320F8BECA00AB1336 /* TextStatsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 		728BAD3D20F3A57B00737D4F /* Attributor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Attributor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		728BAD4020F3A57B00737D4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		728BAD4120F3A57B00737D4F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				728BAD4320F3A57B00737D4F /* ViewController.h */,
 				728BAD4420F3A57B00737D4F /* ViewController.m */,
 				728BAD4620F3A57B00737D4F /* Main.storyboard */,
+				33B4813220F8BECA00AB1336 /* TextStatsViewController.h */,
+				33B4813320F8BECA00AB1336 /* TextStatsViewController.m */,
 				728BAD4920F3A57B00737D4F /* Assets.xcassets */,
 				728BAD4B20F3A57B00737D4F /* LaunchScreen.storyboard */,
 				728BAD4E20F3A57B00737D4F /* Info.plist */,
@@ -276,6 +281,7 @@
 				728BAD4520F3A57B00737D4F /* ViewController.m in Sources */,
 				728BAD5020F3A57B00737D4F /* main.m in Sources */,
 				728BAD4220F3A57B00737D4F /* AppDelegate.m in Sources */,
+				33B4813420F8BECA00AB1336 /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
